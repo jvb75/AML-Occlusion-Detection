@@ -5,21 +5,19 @@ is to assess the effectiveness of YOLOv8 in detecting and counting overlapping h
 **Objectives:**\
 To achieve the goals of this project, several objectives were considered to address the research
 question proposed in section 1.2.1 above, as outlined below in this section:
-1 To quantify YOLOv8’s detection and counting accuracy (e.g., mAP, precision, recall,
+- To quantify YOLOv8’s detection and counting accuracy (e.g., mAP, precision, recall,
 and counting error) for overlapping heads in dense crowd images under varying levels of
 occlusion.
-CHAPTER 1. INTRODUCTION 2
-Crowd Engagement Analysis Using AI: A Case Study for Bradford 2025 UK City of Culture
-2. To identify limitations of YOLOv8 in occlusion-heavy scenarios using datasets extracted
+- To identify limitations of YOLOv8 in occlusion-heavy scenarios using datasets extracted
 from the Bradford University Event.
-3. To investigate and implement techniques such as Soft-NMS, multi-scale feature enhance-
+- To investigate and implement techniques such as Soft-NMS, multi-scale feature enhance-
 ment, and higher resolution inputs to improve the detection of overlapping heads.
-4. To fine-tune YOLOv8 on a custom dataset with dense, occluded head annotations to
+- To fine-tune YOLOv8 on a custom dataset with dense, occluded head annotations to
 improve its generalisation to real-world crowd scenarios.
-5. To adjust hyperparameters (e.g., IoU threshold, confidence threshold) and model variants
+- To adjust hyperparameters (e.g., IoU threshold, confidence threshold) and model variants
 (e.g., YOLOv8m vs. YOLOv8x) to optimize performance for small, overlapping objects.
-6. To compare the baseline performance of YOLOv8 with its enhanced versions (post-
+- To compare the baseline performance of YOLOv8 with its enhanced versions (post-
 strategy implementation) in terms of detection rates, false positives/negatives, and com-
 putational efficiency.
-7. To provide actionable recommendations for deploying YOLOv8 in crowd monitoring sys-
+- To provide actionable recommendations for deploying YOLOv8 in crowd monitoring sys-
 tems, such as surveillance or event management.
