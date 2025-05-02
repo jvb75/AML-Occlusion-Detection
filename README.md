@@ -1,8 +1,8 @@
 # Evaluating YOLOv8 Effectiveness in Detecting and Counting Overlapping Heads in Dense Crowd Images
 ## Strategies for Enhancing Performance in Occlusion-Heavy Scenarios
 **Aims:**
-is to assess the effectiveness of YOLOv8 in detecting and counting overlapping heads in dense crowd images. Additionally, to develop and evaluate strategies to improve performance in Occlusion-Heavy Scenarios.
-**Objectives:**
+is to assess the effectiveness of YOLOv8 in detecting and counting overlapping heads in dense crowd images. Additionally, to develop and evaluate strategies to improve performance in Occlusion-Heavy Scenarios.\
+**Objectives:**\
 To achieve the goals of this project, several objectives were considered to address the research
 question proposed in section 1.2.1 above, as outlined below in this section:
 1 To quantify YOLOv8’s detection and counting accuracy (e.g., mAP, precision, recall,
