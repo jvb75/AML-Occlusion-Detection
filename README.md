@@ -19,7 +19,6 @@ improve its generalisation to real-world crowd scenarios.
 - To compare the baseline performance of YOLOv8 with its enhanced versions (post-
 strategy implementation) in terms of detection rates, false positives/negatives, and com-
 putational efficiency.
-- To provide actionable recommendations for deploying YOLOv8 in crowd monitoring sys-
-tems, such as surveillance or event management.
+- To provide actionable recommendations for deploying YOLOv8 in crowd monitoring systems, such as surveillance or event management.
 ![headcount](https://github.com/user-attachments/assets/076bc2ce-1375-45e9-aa8c-8a27547534d0)
 
