@@ -21,3 +21,5 @@ strategy implementation) in terms of detection rates, false positives/negatives,
 putational efficiency.
 - To provide actionable recommendations for deploying YOLOv8 in crowd monitoring sys-
 tems, such as surveillance or event management.
+![headcount](https://github.com/user-attachments/assets/076bc2ce-1375-45e9-aa8c-8a27547534d0)
+
